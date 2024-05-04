@@ -1,3 +1,4 @@
 hello everyone this project is done by mohit sharma also the dataset used is taken from Kaggle 
 this model accuracy of around 90%.
+Also i have run the code on google colab therefor there is the first cell you can do it in the normal way also as we do in jupyter notebook.
 thankyou for your support.
