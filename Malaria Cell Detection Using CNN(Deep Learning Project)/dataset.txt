@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/ashishjangra27/malarial-cell-image
+use the above link to download the dataset for this project
